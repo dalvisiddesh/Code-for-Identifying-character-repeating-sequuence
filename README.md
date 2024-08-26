@@ -1,0 +1,1 @@
+# Code-for-Identifying-character-repeating-sequuence
